@@ -7,6 +7,7 @@ Ich habe bereits Erfahrungen mit:
 - ☁️ **Firebase**
 - 📋 **Scrum (agile Projektarbeit)**
 - 🧠 **Teamarbeit mit Git & GitHub**
+-  **React**
 
 Mein nächstes Ziel: **Angular**!
 
