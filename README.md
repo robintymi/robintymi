@@ -37,6 +37,9 @@ Teamprojekt – Kanban-Board mit Login, Drag & Drop, realisiert mit Scrum-Method
 ### 🧠 [Pokédex](https://github.com/robintymi/Pokedex-1)  
 Anbindung an die PokéAPI mit Suchfunktion & Infos zu Pokémon.
 
+### 🕹️ [Simon Game](https://github.com/robintymi/Simon-Game)  
+Ein Gedächtnisspiel – programmiert mit HTML, CSS und JavaScript und jQuery.
+
 ---
 
 ## 🌐 Weitere Webauftritte
