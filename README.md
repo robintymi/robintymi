@@ -4,6 +4,7 @@ Willkommen in meinem Portfolio! Ich bin derzeit Teilnehmer bei der [Developer Ak
 
 Ich habe bereits Erfahrungen mit:
 - 🔧 **Bootstrap**
+- 🔧 **jQuery**
 - ☁️ **Firebase**
 - 📋 **Scrum (agile Projektarbeit)**
 - 🧠 **Teamarbeit mit Git & GitHub**
