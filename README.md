@@ -1,60 +1,86 @@
-# 👨‍💻 Robin Tymi – Web Developer Portfolio
+# 👨‍💻 Robin Tymi – Web Developer
 
-Willkommen in meinem Portfolio! Ich bin derzeit Teilnehmer bei der [Developer Akademie](https://www.developerakademie.com/) und befinde mich auf dem Weg zum professionellen Webentwickler. Derzeit lerne ich HTML, CSS und JavaScript – und setze mein Wissen direkt in praxisnahen Projekten um.
+Welcome to my portfolio!  
+I have successfully completed the **Developer Akademie** and hold a **certification as a Frontend Developer**.  
+My goal is to work as a **Fullstack Developer**, and I am actively building and deploying fullstack applications to deepen my backend expertise.
 
-Ich habe bereits Erfahrungen mit:
-- 🔧 **Bootstrap**
-- 🔧 **jQuery**
-- ☁️ **Firebase**
-- 📋 **Scrum (agile Projektarbeit)**
-- 🧠 **Teamarbeit mit Git & GitHub**
--  **React**
-
-Mein nächstes Ziel: **Angular**!
+I enjoy creating modern, responsive web applications and continuously expanding my technical skill set.
 
 ---
 
-## 🚀 Projekte
+## 🚀 Featured Fullstack Project
 
-### 🕹️ [El Pollo Loco](https://github.com/robintymi/El-pollo-loco)  
-Ein 2D Jump’n’Run-Videospiel – programmiert mit HTML, CSS und JavaScript.
+### 🌐 Dog Trainer Platform (Fullstack)
+🔗 https://dogtrainer.vercel.app/
 
-### 📸 [Fotogram](https://github.com/robintymi/Fotogram)  
-Eine Bildergalerie mit Modal-Funktion – modern und responsiv gestaltet.
+A **fullstack web application** deployed on **Vercel**, featuring:
+- Frontend built with **Next.js & React**
+- **REST API** architecture
+- Database integration with **PostgreSQL**
+- Dynamic data handling
 
-### 🍔 [BestellApp](https://github.com/robintymi/BestellApp)  
-Lieferdienst-Klon mit Warenkorb – inspiriert von Plattformen wie Lieferando.
-
-### 🍳 [Kochwelt](https://github.com/robintymi/Kochwelt)  
-Rezepteplattform im Stil von chefkoch.de.
-
-### 🍜 [Sakura Ramen](https://github.com/robintymi/SakuraRamen)  
-Website für ein japanisches Restaurant mit ansprechendem Design.
-
-### 📦 [JOIN (Kanban Management)](https://github.com/mustafa927/JOINv2)  
-Teamprojekt – Kanban-Board mit Login, Drag & Drop, realisiert mit Scrum-Methoden.
-
-### 🧠 [Pokédex](https://github.com/robintymi/Pokedex-1)  
-Anbindung an die PokéAPI mit Suchfunktion & Infos zu Pokémon.
-
-### 🕹️ [Simon Game](https://github.com/robintymi/Simon-Game)  
-Ein Gedächtnisspiel – programmiert mit HTML, CSS und JavaScript und jQuery.
+This project reflects my transition from **Frontend** to **Fullstack Development**.
 
 ---
 
-## 🌐 Weitere Webauftritte
+## 🛠️ Tech Stack & Skills
 
-- 🌱 **[diehelfendenhände.com](https://www.xn--diehelfendenhnde-7nb.com/)** – Webseite für eine Hilfsorganisation (Wix)
-- 🛒 **[lebenskunstonline.de](https://www.lebenskunstonline.de/)** – Online-Shop & Buchungssystem (Wix)
-- 🏡 **[alter-krug-kallinchen.de](https://www.alter-krug-kallinchen.de/)** – Restaurant-Website (WordPress, aktuell in Überarbeitung)
+### Frontend
+- HTML5, CSS3, JavaScript (ES6+)
+- React
+- Next.js
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+- PostgreSQL
+- Firebase
+
+### Tools & Workflow
+- Git & GitHub
+- Scrum / Agile Development
+- Team collaboration
+
+### Currently learning
+- 🐳 Docker
 
 ---
 
-## 📫 Kontakt
+## 🚀 Projects
 
-Möchtest du mehr über mich oder meine Projekte erfahren?  
-Schreib mir gerne auf [GitHub](https://github.com/robintymi) oder per E-Mail.
+### 🕹️ [El Pollo Loco](https://github.com/robintymi/El-pollo-loco)
+2D jump-and-run game built with HTML, CSS, and JavaScript.
+
+### 📦 [JOIN – Kanban Management](https://github.com/mustafa927/JOINv2)
+Team project: Kanban board with login system, drag & drop, built using Scrum methodology.
+
+### 🧠 [Pokédex](https://github.com/robintymi/Pokedex-1)
+PokéAPI integration with search and Pokémon details.
 
 ---
 
-Vielen Dank fürs Vorbeischauen! 😊  
+## 🌐 Additional Web Projects
+
+- 🌱 **[diehelfendenhände.com](https://www.xn--diehelfendenhnde-7nb.com/)**  
+  Website for a non-profit organization (Wix)
+
+- 🛒 **[lebenskunstonline.de](https://www.lebenskunstonline.de/)**  
+  Online shop & booking system (Wix)
+
+- 🏡 **[alter-krug-kallinchen.de](https://www.alter-krug-kallinchen.de/)**  
+  Restaurant website (WordPress – currently under revision)
+
+---
+
+## 📫 Contact
+
+Interested in working together or learning more about my projects?  
+Feel free to reach out via [GitHub](https://github.com/robintymi) or email.
+
+---
+
+Thanks for visiting my profile! 🚀
